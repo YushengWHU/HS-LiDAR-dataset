@@ -19,4 +19,5 @@ Topics:
 ```
 links: 链接：https://pan.baidu.com/s/1sJoU7RLBizie4DCo38WPFg 
 提取码：1234 </br> 
-Note that currently only two sequences are shared due to size restriction, the single file upload is maximum 20GB, but we have many more than 30GB sequences. If you are interested in the datasets or you have ways to store data online, please contact me for more datasets.
+Note that currently only two sequences are shared due to size restriction, the single file upload is maximum 20GB, but we have many more than 30GB sequences. If you are interested in the datasets or you have ways to store data online, please contact me for more datasets. </br>
+For friends who are not from China mainland, I am still figuring out the data sharing method.
